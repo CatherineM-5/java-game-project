@@ -1,0 +1,6 @@
+--------------------------------------
+1. Start a New game of Tree Hugger!
+2. Read the Rules
+3. Quit
+Enter option ...
+--------------------------------------

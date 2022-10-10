@@ -1,0 +1,90 @@
+************************************************************************************************************************************************************************************************************************************************************************************************************
+WELCOME TO TREE HUGGERS
+-----------------------
+-
+treehugger.TreeHugger Designers: Catherine Magennis, Daniel Roddy, Rob Coulter, Niall Hodgen
+Copyright: Dream Team 2022
+-
+************************************************************************************************************************************************************************************************************************************************************************************************************
+GAME BACKGROUND
+-----------------------
+Each player represents a large, global company. Each company potentially has a negative environmental impact as they operate; with the requirement of energy to allow their business to operate and in a negative contribution to environmental waste or greenhouse gas emission. 
+Companies are accountable to national and international environmental policy.   Companies trade in Renewable Energy Credits (REC’s).   If the company has a positive impact on the environment they will gain REC’s, and if they negatively impact the environment, they will pay REC’s. 
+.
+RECs are acquired in several ways: 
+-Each company starts the game with a certain number of RECs allocated to them 
+-Every time a player passes G8 Summit they will gain RECs 
+-If a company owns a property that contributes positively to the environment, then another company landing on the associated square will pay them RECs 
+.
+RECs are lost in the following way: 
+When a player lands on another player's square where the other player owns a property, they must pay the associated amount 
+.
+The game ends when: 
+-One player spends all REC’s and therefore their company is unable to operate, and they must stop. 
+-Any player decides to quit the game 
+-User Interface 
+.
+Setup 
+-The game starts with 2-4 players 
+-Each player represents a global company 
+-treehugger.Player roles dice and initial number is recorded
+-The number for each dice roll for the player is recorded 
+-The number is sorted in descending order 
+This order of initial dice roll becomes the order in which players will continue to take turns throughout game. 
+.
+Start and Move 
+System will have a start square zonenamed ‘G8 Ssummit’, where players collect their resources  
+Each player takes their turn depending on the descending order number 
+Each player starts at the G8 Summit squarezone 
+treehugger.Dice roll again, in order of player turn
+Number generated in dice roll represents number of squares zones moved 
+Players will be informed where they have landed 
+Players presented with opportunities and obligations  
+treehugger.Player makes decision
+The system will trigger an action based on the player’s decision 
+More than one player can occupy a square zone concurrently 
+Each time a player passes the G8 summit they collect 200 Recs’. 
+.
+Areas Zones and Fields 
+When a player initially lands on a squarezone, they can invest in an environmentally friendly resource related to the zone field the square is part of. 
+The system will have a ‘rest square’zone’ where nothing happens 
+If a player lands on a square zone that is resourced by a facility owned by another player the landing player is obligated to pay RECs as a form of compensation for energy use, or negative impact on the environment. 
+System will include four ‘zones’'fields’ 
+The ‘zonesfields’ will be divided as follows:  
+Two ‘zones’ 'fields’ containing three squareszones. 
+Two ‘fieldszones’ containing two squareszones. 
+.
+Developing AreasFields 
+A player must own all squares zones related to each zone field before they can invest in an environmentally friendly resource 
+Zones can be developed at the start of player’s turn 
+Each zone field will have a designated name 
+Each development will have a designated name 
+A maximum of two development typess can be made to each tilezone (standard --> upgraded) 
+Developments can be purchased using REC’s 
+Owners of developments will get paid back RECs on players who land on their squarezone 
+.
+Ending the treehugger.TreeHugger
+The game ends when a player runs out of REC’s 
+The game ends when any player leaves the game  
+The system will display the resources of each player when the game ends 
+Developments will not be converted to RECs at the end of the game 
+The winner will be displayed   
+----------------------- 
+GAME RULES
+----------------------- 
+treehugger.TreeHugger requires a minimum of 2 players to start with a maximum of 4 total players
+Players must input name as a string with no special characters, and a maximum length of 20 
+Players will be notified if name is incorrect e.g., sSpecial characters entered 
+treehugger.Player starts with 1000 RECs
+Players can choose to purchase an area using their RECs 
+Players who land on an owned area that has been purchased by another player will pay an obligatory payment of REC’s (as they have used a power source or negatively contributed to the environment). 
+Players will be notified when their turn begins 
+Players will be notified when their turn ends 
+Players who land on the break tilezone forfeits this turn   
+Players who pass the starting tilezone (G8 Summit) collect 200 RECs 
+Players will be given additional menu option to upgrade add development to zone if they own all fields zones in that areafield 
+Players can only add one sustainable development in one area zone during a turn 
+Players can upgrade incrementally: standard sustainable development (SSD) and then upgraded sustainable development (USD). 
+Players must build three SSDs on a zone n area before being able to build a USD on that areazone 
+treehugger.Player cannot build more than one USD on a zonen area
+After each turn, players’ updated balances will be displayed 
